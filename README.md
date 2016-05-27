@@ -1,15 +1,15 @@
 # ORMAP - Map Production Toolbar
 
 The ORMAP Map Production toolbar is a specific set of tools built to support Oregon Counties and the mapping requirments set forth by the Oregon Department of Revenue for mapping tax 
-parcels.  The tools are built using the programming language Python and the [ESRI](https://esri.com) ArcPy python library.  They are  platform as an Add-in and supports version 10.1+ (currently tested up to version 10.3). ArcMap is required 
+parcels.  The tools are built using the programming language Python and the  <a href="https://esri.com/" target="_blank">ESRI</a> ArcPy python library.  They are  platform as an Add-in and supports version 10.1+ (currently tested up to version 10.3). ArcMap is required 
 to use this toolbar. 
 
-![alt text](https://raw.github.com/ORMAPtools/MapProduction/Supplimental/Toolbar.png "Image of the toolbar")
+![alt text](https://raw.githubusercontent.com/ORMAPtools/MapProduction/master/Suppemental/Toolbar.PNG "Image of the toolbar")
 
 
 ### Download
 The download contains everything you need including the Add-In, documentation, and configuration files.
-> [DOWNLOAD NOW](https://raw.github.com/ORMAPtools/MapProduction/Ormap+Map+Production+AddIn.zip).
+> [DOWNLOAD NOW](https://github.com/ORMAPtools/MapProduction/raw/master/Ormap%20Map%20Production%20AddIn.zip).
 
 
 ### Documentation/Configuration
