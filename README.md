@@ -64,6 +64,7 @@ The download contains diagrams displaying the map elements as they might appear 
 ### Issues
 Find a bug or want to request a new feature?  Please let us know by submitting an [issue](https://github.com/ORMAPtools/MapProduction/issues). 
 
+Having problems with the toolbar? Check out the issue tracker to see if your [problem](https://github.com/ORMAPtools/MapProduction/issues?utf8=%E2%9C%93&q=is%3Aissue) has already been resolved by someone else.
 
 ### Credit/Contributions
 The ORMAP tools were created by the ORMAP tools developers.  We encourage anyone to help contribute to the ORMAP tools project.  Please submit an [issue](https://github.com/ORMAPtools/MapProduction/issues) or fork and create a pull request.
